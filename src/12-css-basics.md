@@ -1,7 +1,7 @@
 ---
 title: 'CSS Basics'
 summary: 'Learn how to design a nice, clean webpage from scratch by writing your own CSS.'
-permalink: 'css-basics'
+permalink: 'css-basics/'
 tags: chapter
 layout: 'chapter.njk'
 ---
@@ -26,7 +26,7 @@ I made an `index.html` and put the following code in there. It assumes that you 
 
 <details>
 	<summary>Expand to see the full HTML code</summary>
-	
+
 ```html
 <!DOCTYPE html>
 <html lang="en">
